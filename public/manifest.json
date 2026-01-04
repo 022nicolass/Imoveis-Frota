@@ -1,0 +1,22 @@
+{
+  "name": "Imóveis Frota",
+  "short_name": "Frota",
+  "description": "Sistema privado para administração de imóveis residenciais",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3ed",
+  "theme_color": "#d4c5a9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
